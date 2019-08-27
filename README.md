@@ -2,7 +2,7 @@
 
 ## Steps to Setup
 
-**1. Download and unzip the spring-boot-rest-api-anagrams
+**1. Download and unzip the spring-boot-rest-api-tutorial
 
 **2. Create Mysql database**
 ```bash
